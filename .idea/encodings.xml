@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/json/test/JSONDecodingTestApp.java" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/src/json/test/JSONEncodingTestApp.java" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/src/json/test/JSONObjectMapperTestApp.java" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/src/json/test/UserHasASearchObjectMapperTestApp.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/spring/domain/Search.java" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/src/spring/domain/User.java" charset="EUC-KR" />
+  </component>
+</project>
